@@ -1,0 +1,26 @@
+This project, FedEx Logistics Dashboard, is a comprehensive data analytics solution designed to monitor and optimize end-to-end logistics operations.
+Built using Power BI along with supporting tools like SQL, DAX, Python, and Excel, the dashboard provides a structured and interactive way to analyze key aspects of a logistics network,
+including orders, delivery performance, hubs, drivers, and vehicles. The primary objective of this project is to enable data-driven decision-making by transforming raw operational data into meaningful insights.
+
+The dashboard is divided into four main sections: Overview, Hubs Overview, Drivers Overview, and Vehicles Overview.
+The Overview dashboard serves as a high-level summary, presenting critical KPIs such as Total Orders, On-Time Delivery Rate, Customer Satisfaction (CSAT),
+ and Average Delivery Time. These metrics are further enhanced with Month-over-Month (MoM) comparisons,
+ allowing users to track performance trends and identify improvements or declines over time. This section is particularly useful
+ for managers and decision-makers who need a quick snapshot of business performance.
+
+The Hubs Overview dashboard focuses on operational efficiency at the hub level. It includes visualizations such as Orders Processed vs Hub Capacity and Hub Performance Ranking,
+which help identify overloaded or underutilized hubs. Additionally, a heatmap representing order processing time across different days of the week provides deeper insights into
+operational bottlenecks. This enables better workload distribution and capacity planning, ensuring smoother logistics operations.
+
+The Drivers Overview dashboard analyzes driver performance and workforce efficiency. It includes metrics like the total number of drivers, a scatter plot showing the relationship between experience and ratings,
+ and a ranking of drivers with the most delays. A unique feature of this dashboard is the driver profile summary, which displays individual details such as hire date, years of experience,
+ ratings, and deliveries made in the selected period. This helps in identifying high-performing drivers as well as those who may require training or performance improvement. Additionally,
+ a monthly trend chart highlights delivery patterns over time.
+
+The Vehicles Overview dashboard provides insights into fleet management and maintenance. It includes key metrics such as total number of vehicles and active versus maintenance status.
+Visualizations like orders by vehicle model help identify the most utilized vehicles, while scatter plots analyzing vehicle age versus breakdown frequency provide insights into maintenance risks.
+Detailed breakdowns by vehicle code and model allow for precise identification of vehicles that require attention, helping reduce downtime and operational disruptions.
+
+Overall, this project demonstrates strong data modeling, visualization, and business understanding. It effectively connects different components of the logistics process—from order
+placement to final delivery—offering a holistic view of operations. The use of interactive filters, diverse visualizations, and well-defined KPIs makes the dashboard both user-friendly and insightful.
+This project is highly relevant for real-world applications and serves as a strong portfolio piece, showcasing the ability to solve complex business problems using data analytics.
