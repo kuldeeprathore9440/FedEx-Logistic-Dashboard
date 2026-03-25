@@ -2,6 +2,12 @@
 
 <p align="center">
 A complete end-to-end logistics analytics dashboard built using Power BI to monitor, analyze, and optimize logistics operations.
+Dataset:
+• 25K+ orders
+• 12 hubs
+• 150 drivers
+• 80 vehicles
+• 12 months of data  
 </p>
 
 <hr>
